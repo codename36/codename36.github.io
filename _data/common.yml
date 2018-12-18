@@ -1,0 +1,8 @@
+- name : DISANET1
+  spec : Intel Xeon CPU E7- 4807  @ 1.87GHz, 32GB RAM, 600GB HDD, Ubuntu 14.04.5 LTS
+- name : DISANET2
+  spec : Intel Xeon CPU E7- 4807  @ 1.87GHz, 32GB RAM, 600GB HDD, Ubuntu 16.04.1 LTS
+- name : DISANET3
+  spec : AMD Opteron Processor 6172, 32GB RAM, 1.8TB HDD, Debian GNU/Linux 8
+- name : DISANET4
+  spec : AMD Opteron Processor 6172, 32GB RAM, 600GB HDD, Ubuntu 16.04.2 LTS

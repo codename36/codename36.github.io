@@ -1,0 +1,34 @@
+- name : softran1
+  spec : Intel Xeon CPU E5-2690 @ 2.60 GHz, 64GB RAM, 2 TB HDD, Ubuntu 16.04.2 LTS
+- name : softran1
+  spec : Intel Xeon CPU E5-2690 @ 2.60 GHz, 64GB RAM, 2 TB HDD, Ubuntu 16.04.2 LTS
+- name : softran3
+  spec : Intel Xeon CPU E5-2690 @ 2.60 GHz, 64GB RAM, 2 TB HDD, Ubuntu 16.04.2 LTS
+- name : softran4
+  spec : Intel Xeon CPU E5-2660 @ 2.00 GHz, 64GB RAM, 300 GB HDD, Ubuntu 16.04.2 LTS
+- name : ccran1
+  spec : Intel Xeon CPU E5-2690 @ 2.60 GHz, 64GB RAM, 2 TB HDD, Ubuntu 16.04.2 LTS
+- name : ccran2
+  spec : Intel Xeon CPU E5-2690 @ 2.60 GHz, 64GB RAM, 2 TB HDD, Ubuntu 16.04.2 LTS
+- name : ccran3
+  spec : Intel Xeon CPU E5-2640 @ 2.40 GHz, 32GB RAM, 1 TB HDD, Ubuntu 14.04.4 LTS
+- name : mec1
+  spec : Intel Xeon CPU E5-2690 @ 2.60 GHz, 64GB RAM, 2 TB HDD, Ubuntu 16.04.2 LTS
+- name : mec2
+  spec : Intel Xeon CPU E5-2640 @ 2.40 GHz, 32GB RAM, 1 TB HDD, Ubuntu 14.04.4 LTS
+- name : iot
+  spec : Intel Xeon CPU E5-2690 @ 2.60 GHz, 64GB RAM, 2 TB HDD, Ubuntu 16.04.2 LTS
+- name : news1
+  spec : Intel Xeon CPU E5-2690 @ 2.60 GHz, 64GB RAM, 2 TB HDD, Ubuntu 16.04.2 LTS
+- name : news2
+  spec : Intel Xeon CPU E5-2690 @ 2.60 GHz, 64GB RAM, 2 TB HDD, Ubuntu 16.04.2 LTS
+- name : news3
+  spec : Intel Xeon CPU E5-2690 @ 2.60 GHz, 64GB RAM, 2 TB HDD, Ubuntu 16.04.2 LTS
+- name : yamuna
+  spec : Intel Xeon CPU X5675 @ 3.07GHz, 96 GB RAM, 2 TB HDD, Ubuntu 14.04.5 LTS
+- name : newslab
+  spec : Intel Xeon CPU E5-2670 @ 2.60 GHz, 32GB RAM, 1 TB HDD, Ubuntu 12.04.5 LTS
+- name : sindhu
+  spec : Intel Xeon CPU E5506 @ 2.13GHz, 8 GB RAM, 300 GB HDD, 16.04.1 LTS
+- name : csestore
+  spec : Intel Xeon CPU E5-2690 @ 2.60 GHz, 64GB RAM, 8 TB HDD, Ubuntu 16.04.2 LTS

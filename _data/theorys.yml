@@ -1,0 +1,8 @@
+- name : Narmada
+  spec : 2 x Intel Xeon X5675 @ 3.07GHz, 32GB RAM, 1.8TB HDD
+- name : CSS
+  spec : 2 x Intel Xeon CPU E5-2690 v4, 2.60GHz, 14-core/35MB, 32GB RAM, 2TB HDD, Tesla P100 GPU
+- name : Turing
+  spec : 2 x Intel Xeon CPU E5-2640 v4 2.4GHz, 10Core/20Threads, 25MB Cache, 128 GB RAM, 2TB HDD, NVIdia Tesla K40M GPU
+- name : Neumann
+  spec : 2x Intel Xeon Gold 5022 3.6GHz 4core/8threads, 16MB Cache, 256GB RAM, 2.4 TB HDD
